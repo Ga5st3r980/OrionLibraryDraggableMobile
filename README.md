@@ -1,4 +1,4 @@
-# Orion Linrary Mobile
+# Orion Library Mobile
 This documentation is for the stable release of Orion Library Draggable
 # Booting the library
 local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))()
